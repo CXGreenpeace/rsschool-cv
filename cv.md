@@ -17,6 +17,11 @@ Discord: Igor Krupianko(@cxgreenpeace)
 BSUIR - Unfinished higher education
 
 ###Code samples
+```javascript
+function multiply(a, b){
+ return a * b;
+}
+```
 
 ###Experience
 
