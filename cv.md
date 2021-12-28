@@ -1,31 +1,31 @@
-#KRUPIANKO IGOR
+# KRUPIANKO IGOR
 ![Foto cv](C:\Users\N\Documents\foto_cv.jpg)
 
-###Profile
+### Profile
 address: Gomel, Belarus
 phone: +375 29 111 11 11
 email: greenpeacecx@gmail.com
 Discord: Igor Krupianko(@cxgreenpeace)
 
-###Skills
-*Basic Html
-*Basic CSS
-*Basic JS
-*Basic Ruby
+### Skills
+* Basic Html
+* Basic CSS
+* Basic JS
+* Basic Ruby
 
-###Education
+### Education
 BSUIR - Unfinished higher education
 
-###Code samples
+### Code samples
 ```javascript
 function multiply(a, b){
  return a * b;
 }
 ```
 
-###Experience
+### Experience
 
-###Languages
-*English
-*Russian
-*Deutsch
+### Languages
+* English
+* Russian
+* Deutsch
