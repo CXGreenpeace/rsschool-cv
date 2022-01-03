@@ -1,1 +1,1 @@
-# rsschool-cv
+https://cxgreenpeace.github.io/rsschool-cv/
