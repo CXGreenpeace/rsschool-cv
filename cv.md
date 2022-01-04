@@ -1,5 +1,5 @@
 # KRUPIANKO IGOR
-![Foto cv](C:\Users\N\Documents\foto_cv.jpg)
+![Foto cv](.\img\foto_cv.jpg)
 
 ### Profile
 **address:** Gomel, Belarus
