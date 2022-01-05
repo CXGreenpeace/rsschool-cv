@@ -1,1 +1,1 @@
-# rsschool-cv
+![Deploy](https://cxgreenpeace.github.io/rsschool-cv/)
